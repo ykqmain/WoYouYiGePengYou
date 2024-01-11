@@ -17,4 +17,7 @@
 * [我有一个朋友·后记](https://github.com/ykqmain/MuZhiSuoJi-WoYouYiGePengYou/blob/main/我有一个朋友/我有一个朋友·后记.md)
 
 
-Update: 2024.1.2
+Update:
+
+2024年1月2日第1版
+
